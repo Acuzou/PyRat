@@ -89,4 +89,4 @@ Distribué sous licence MIT – voir le fichier `LICENSE` pour plus de détails.
 
 ---
 
-> Projet développé dans le cadre du cours **PyRat** – Université XYZ, 2025.
+> Projet développé dans le cadre du cours **PyRat** – IMT Atlantique, 2021.
